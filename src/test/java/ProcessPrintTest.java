@@ -8,7 +8,6 @@ public class ProcessPrintTest {
 
         for(int i = 1; i <=100; i++) {
             System.out.println(fizzBuzzConverter.converter(i));
-//            i+=1;
         }
     }
 }
